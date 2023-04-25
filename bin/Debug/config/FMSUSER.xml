@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BOM>
+	<BO>
+		<Document_Lines>
+			<row>
+				<USER>fmsadmin</USER>
+				<PASSWORD>fmsadmin</PASSWORD>
+			</row>
+		</Document_Lines>
+	</BO>
+</BOM>
